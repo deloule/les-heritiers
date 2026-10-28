@@ -39,6 +39,12 @@ Le catalogue a vocation à couvrir toutes les régions du monde et les différen
 
 Voir [la spécification de navigation 2D](docs/navigation-2d.md). Le moteur de promenade n'est pas encore développé.
 
+## Direction artistique
+
+**Style retenu : bande dessinée historique (style 5).** La promenade 2D utilisera des décors illustrés, lumineux, riches et lisibles, avec des personnages expressifs aux proportions crédibles. La direction visuelle évite le pixel art, le photoréalisme et les personnages trop enfantins. Les reconstitutions demeurent explicitement distinguées des faits attestés.
+
+Voir [la direction artistique](docs/direction-artistique.md).
+
 ## Expérience de consultation
 
 L'interface privilégie une **identité claire, lumineuse et compréhensible** : carte interactive, chronologie, recherche, filtres et fiches documentaires.
