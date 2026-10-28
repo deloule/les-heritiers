@@ -35,7 +35,7 @@ Le catalogue a vocation à couvrir toutes les régions du monde et les différen
 
 ## Navigation en monde 2D
 
-**Parcours central : choisir un point sur la carte mondiale, choisir une époque, puis se balader dans une scène locale 2D.** L'avatar explore les lieux et ouvre des fiches de sources à proximité des points d'intérêt. Retour à la carte mondiale à tout moment. Les scènes reconstituées sont identifiées comme telles et ne constituent pas des preuves historiques.
+**Parcours central : désigner un point historique précis et documenté sur la carte mondiale, choisir une époque, puis se balader dans une scène locale 2D.** L'avatar explore les lieux et ouvre des fiches de sources à proximité des points d'intérêt. Retour à la carte mondiale à tout moment. Les scènes reconstituées sont identifiées comme telles et ne constituent pas des preuves historiques.
 
 Voir [la spécification de navigation 2D](docs/navigation-2d.md). Le moteur de promenade n'est pas encore développé.
 
